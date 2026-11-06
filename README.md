@@ -1,13 +1,13 @@
 # Prețuri carburanți România
 
-Prețurile de la 1399 de benzinării, actualizate de două ori pe zi (00:00 și 12:00). Ultima actualizare: **2026-11-06 00:00** (ora României).
+Prețurile de la 1399 de benzinării, actualizate de două ori pe zi (00:00 și 12:00). Ultima actualizare: **2026-11-06 12:00** (ora României).
 
 | Carburant | Benzinării | Medie | Minim | Maxim |
 |---|---:|---:|---:|---:|
 | Benzină standard | 1398 | 9,90 | 9,85 (SOCAR) | 10,17 (GAZPROM) |
-| Benzină premium | 1245 | 10,50 | 7,54 (SOCAR) | 16,49 (MOL) |
+| Benzină premium | 1245 | 10,49 | 7,54 (SOCAR) | 16,49 (MOL) |
 | Motorină standard | 1399 | 10,89 | 10,83 (SOCAR) | 10,99 (GAZPROM) |
-| Motorină premium | 1334 | 11,75 | 10,97 (ROMPETROL) | 11,89 (ROMPETROL) |
+| Motorină premium | 1334 | 11,75 | 10,97 (ROMPETROL) | 11,88 (MOL) |
 | GPL | 339 | 4,71 | 4,49 (MOL) | 4,99 (MOL) |
 | Încărcare electrică | 38 | 21,44 | 2,35 (MOL) | 29,00 (MOL) |
 
