@@ -1,6 +1,6 @@
 # Prețuri carburanți România
 
-Prețurile de la 1399 de benzinării, actualizate de două ori pe zi (00:00 și 12:00). Ultima actualizare: **2026-11-12 12:00** (ora României).
+Prețurile de la 1399 de benzinării, actualizate de două ori pe zi (00:00 și 12:00). Ultima actualizare: **2026-11-13 00:00** (ora României).
 
 | Carburant | Benzinării | Medie | Minim | Maxim |
 |---|---:|---:|---:|---:|
